@@ -1,0 +1,2962 @@
+[
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 2,
+        "NombreEmpleado": "Terri",
+        "ApellidoEmpleado": "Duffy",
+        "CargoEmpleado": "Vice President of Engineering",
+        "FechaIngreso": "2002-03-03"
+    },
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 3,
+        "NombreEmpleado": "Roberto",
+        "ApellidoEmpleado": "Tamburello",
+        "CargoEmpleado": "Engineering Manager",
+        "FechaIngreso": "2001-12-12"
+    },
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 4,
+        "NombreEmpleado": "Rob",
+        "ApellidoEmpleado": "Walters",
+        "CargoEmpleado": "Senior Tool Designer",
+        "FechaIngreso": "2002-01-05"
+    },
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 5,
+        "NombreEmpleado": "Gail",
+        "ApellidoEmpleado": "Erickson",
+        "CargoEmpleado": "Design Engineer",
+        "FechaIngreso": "2002-02-06"
+    },
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 6,
+        "NombreEmpleado": "Jossef",
+        "ApellidoEmpleado": "Goldberg",
+        "CargoEmpleado": "Design Engineer",
+        "FechaIngreso": "2002-02-24"
+    },
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 14,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Sullivan",
+        "CargoEmpleado": "Senior Design Engineer",
+        "FechaIngreso": "2005-01-30"
+    },
+    {
+        "ID_Departamento": 1,
+        "Nombre_Departamento": "Engineering",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 15,
+        "NombreEmpleado": "Sharon",
+        "ApellidoEmpleado": "Salavaria",
+        "CargoEmpleado": "Design Engineer",
+        "FechaIngreso": "2005-02-18"
+    },
+    {
+        "ID_Departamento": 2,
+        "Nombre_Departamento": "Tool Design",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 4,
+        "NombreEmpleado": "Rob",
+        "ApellidoEmpleado": "Walters",
+        "CargoEmpleado": "Senior Tool Designer",
+        "FechaIngreso": "2002-01-05"
+    },
+    {
+        "ID_Departamento": 2,
+        "Nombre_Departamento": "Tool Design",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 11,
+        "NombreEmpleado": "Ovidiu",
+        "ApellidoEmpleado": "Cracium",
+        "CargoEmpleado": "Senior Tool Designer",
+        "FechaIngreso": "2005-01-05"
+    },
+    {
+        "ID_Departamento": 2,
+        "Nombre_Departamento": "Tool Design",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 12,
+        "NombreEmpleado": "Thierry",
+        "ApellidoEmpleado": "D'Hers",
+        "CargoEmpleado": "Tool Designer",
+        "FechaIngreso": "2002-01-11"
+    },
+    {
+        "ID_Departamento": 2,
+        "Nombre_Departamento": "Tool Design",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 13,
+        "NombreEmpleado": "Janice",
+        "ApellidoEmpleado": "Galvin",
+        "CargoEmpleado": "Tool Designer",
+        "FechaIngreso": "2005-01-23"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 273,
+        "NombreEmpleado": "Brian",
+        "ApellidoEmpleado": "Welcker",
+        "CargoEmpleado": "Vice President of Sales",
+        "FechaIngreso": "2005-03-18"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 274,
+        "NombreEmpleado": "Stephen",
+        "ApellidoEmpleado": "Jiang",
+        "CargoEmpleado": "North American Sales Manager",
+        "FechaIngreso": "2005-02-04"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 275,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Blythe",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 276,
+        "NombreEmpleado": "Linda",
+        "ApellidoEmpleado": "Mitchell",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 277,
+        "NombreEmpleado": "Jillian",
+        "ApellidoEmpleado": "Carson",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 278,
+        "NombreEmpleado": "Garrett",
+        "ApellidoEmpleado": "Vargas",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 279,
+        "NombreEmpleado": "Tsvi",
+        "ApellidoEmpleado": "Reiter",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 280,
+        "NombreEmpleado": "Pamela",
+        "ApellidoEmpleado": "Ansman-Wolfe",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 281,
+        "NombreEmpleado": "Shu",
+        "ApellidoEmpleado": "Ito",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 282,
+        "NombreEmpleado": "José",
+        "ApellidoEmpleado": "Saraiva",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 283,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Campbell",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2005-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 284,
+        "NombreEmpleado": "Tete",
+        "ApellidoEmpleado": "Mensa-Annan",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2006-11-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 285,
+        "NombreEmpleado": "Syed",
+        "ApellidoEmpleado": "Abbas",
+        "CargoEmpleado": "Pacific Sales Manager",
+        "FechaIngreso": "2007-04-15"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 286,
+        "NombreEmpleado": "Lynn",
+        "ApellidoEmpleado": "Tsoflias",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2007-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 287,
+        "NombreEmpleado": "Amy",
+        "ApellidoEmpleado": "Alberts",
+        "CargoEmpleado": "European Sales Manager",
+        "FechaIngreso": "2006-05-18"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 288,
+        "NombreEmpleado": "Rachel",
+        "ApellidoEmpleado": "Valdez",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2007-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 289,
+        "NombreEmpleado": "Jae",
+        "ApellidoEmpleado": "Pak",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2006-07-01"
+    },
+    {
+        "ID_Departamento": 3,
+        "Nombre_Departamento": "Sales",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 290,
+        "NombreEmpleado": "Ranjit",
+        "ApellidoEmpleado": "Varkey Chudukatil",
+        "CargoEmpleado": "Sales Representative",
+        "FechaIngreso": "2006-07-01"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 250,
+        "NombreEmpleado": "Sheela",
+        "ApellidoEmpleado": "Word",
+        "CargoEmpleado": "Purchasing Manager",
+        "FechaIngreso": "2005-03-28"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 17,
+        "NombreEmpleado": "Kevin",
+        "ApellidoEmpleado": "Brown",
+        "CargoEmpleado": "Marketing Assistant",
+        "FechaIngreso": "2001-02-26"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 18,
+        "NombreEmpleado": "John",
+        "ApellidoEmpleado": "Wood",
+        "CargoEmpleado": "Marketing Specialist",
+        "FechaIngreso": "2005-03-10"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 19,
+        "NombreEmpleado": "Mary",
+        "ApellidoEmpleado": "Dempsey",
+        "CargoEmpleado": "Marketing Assistant",
+        "FechaIngreso": "2005-03-17"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 20,
+        "NombreEmpleado": "Wanida",
+        "ApellidoEmpleado": "Benshoof",
+        "CargoEmpleado": "Marketing Assistant",
+        "FechaIngreso": "2005-02-07"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 21,
+        "NombreEmpleado": "Terry",
+        "ApellidoEmpleado": "Eminhizer",
+        "CargoEmpleado": "Marketing Specialist",
+        "FechaIngreso": "2003-04-03"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 22,
+        "NombreEmpleado": "Sariya",
+        "ApellidoEmpleado": "Harnpadoungsataya",
+        "CargoEmpleado": "Marketing Specialist",
+        "FechaIngreso": "2003-01-13"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 23,
+        "NombreEmpleado": "Mary",
+        "ApellidoEmpleado": "Gibson",
+        "CargoEmpleado": "Marketing Specialist",
+        "FechaIngreso": "2003-02-13"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 24,
+        "NombreEmpleado": "Jill",
+        "ApellidoEmpleado": "Williams",
+        "CargoEmpleado": "Marketing Specialist",
+        "FechaIngreso": "2003-02-19"
+    },
+    {
+        "ID_Departamento": 4,
+        "Nombre_Departamento": "Marketing",
+        "Grupo": "Sales and Marketing",
+        "ID_Empleado": 16,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Bradley",
+        "CargoEmpleado": "Marketing Manager",
+        "FechaIngreso": "2002-01-20"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 16,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Bradley",
+        "CargoEmpleado": "Marketing Manager",
+        "FechaIngreso": "2002-01-20"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 250,
+        "NombreEmpleado": "Sheela",
+        "ApellidoEmpleado": "Word",
+        "CargoEmpleado": "Purchasing Manager",
+        "FechaIngreso": "2005-03-28"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 251,
+        "NombreEmpleado": "Mikael",
+        "ApellidoEmpleado": "Sandberg",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2003-03-14"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 252,
+        "NombreEmpleado": "Arvind",
+        "ApellidoEmpleado": "Rao",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2003-04-01"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 253,
+        "NombreEmpleado": "Linda",
+        "ApellidoEmpleado": "Meisner",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-01-18"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 254,
+        "NombreEmpleado": "Fukiko",
+        "ApellidoEmpleado": "Ogisu",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-02-05"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 255,
+        "NombreEmpleado": "Gordon",
+        "ApellidoEmpleado": "Hee",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-02-12"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 256,
+        "NombreEmpleado": "Frank",
+        "ApellidoEmpleado": "Pellow",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-02-24"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 257,
+        "NombreEmpleado": "Eric",
+        "ApellidoEmpleado": "Kurjan",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-02-28"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 258,
+        "NombreEmpleado": "Erin",
+        "ApellidoEmpleado": "Hagens",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-03-03"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 259,
+        "NombreEmpleado": "Ben",
+        "ApellidoEmpleado": "Miller",
+        "CargoEmpleado": "Buyer",
+        "FechaIngreso": "2004-04-09"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 260,
+        "NombreEmpleado": "Annette",
+        "ApellidoEmpleado": "Hill",
+        "CargoEmpleado": "Purchasing Assistant",
+        "FechaIngreso": "2005-01-06"
+    },
+    {
+        "ID_Departamento": 5,
+        "Nombre_Departamento": "Purchasing",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 261,
+        "NombreEmpleado": "Reinout",
+        "ApellidoEmpleado": "Hillmann",
+        "CargoEmpleado": "Purchasing Assistant",
+        "FechaIngreso": "2005-01-25"
+    },
+    {
+        "ID_Departamento": 6,
+        "Nombre_Departamento": "Research and Development",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 7,
+        "NombreEmpleado": "Dylan",
+        "ApellidoEmpleado": "Miller",
+        "CargoEmpleado": "Research and Development Manager",
+        "FechaIngreso": "2003-03-12"
+    },
+    {
+        "ID_Departamento": 6,
+        "Nombre_Departamento": "Research and Development",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 8,
+        "NombreEmpleado": "Diane",
+        "ApellidoEmpleado": "Margheim",
+        "CargoEmpleado": "Research and Development Engineer",
+        "FechaIngreso": "2003-01-30"
+    },
+    {
+        "ID_Departamento": 6,
+        "Nombre_Departamento": "Research and Development",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 9,
+        "NombreEmpleado": "Gigi",
+        "ApellidoEmpleado": "Matthew",
+        "CargoEmpleado": "Research and Development Engineer",
+        "FechaIngreso": "2003-02-17"
+    },
+    {
+        "ID_Departamento": 6,
+        "Nombre_Departamento": "Research and Development",
+        "Grupo": "Research and Development",
+        "ID_Empleado": 10,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Raheem",
+        "CargoEmpleado": "Research and Development Manager",
+        "FechaIngreso": "2003-06-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 25,
+        "NombreEmpleado": "James",
+        "ApellidoEmpleado": "Hamilton",
+        "CargoEmpleado": "Vice President of Production",
+        "FechaIngreso": "2003-03-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 224,
+        "NombreEmpleado": "William",
+        "ApellidoEmpleado": "Vong",
+        "CargoEmpleado": "Scheduling Assistant",
+        "FechaIngreso": "2003-02-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 27,
+        "NombreEmpleado": "Jo",
+        "ApellidoEmpleado": "Brown",
+        "CargoEmpleado": "Production Supervisor - WC60",
+        "FechaIngreso": "2002-03-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 28,
+        "NombreEmpleado": "Guy",
+        "ApellidoEmpleado": "Gilbert",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2000-07-31"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 29,
+        "NombreEmpleado": "Mark",
+        "ApellidoEmpleado": "McArthur",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-02-24"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 30,
+        "NombreEmpleado": "Britta",
+        "ApellidoEmpleado": "Simon",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-02"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 31,
+        "NombreEmpleado": "Margie",
+        "ApellidoEmpleado": "Shoop",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-02-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 32,
+        "NombreEmpleado": "Rebecca",
+        "ApellidoEmpleado": "Laszlo",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-01-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 33,
+        "NombreEmpleado": "Annik",
+        "ApellidoEmpleado": "Stahl",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-01-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 34,
+        "NombreEmpleado": "Suchitra",
+        "ApellidoEmpleado": "Mohan",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-20"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 35,
+        "NombreEmpleado": "Brandon",
+        "ApellidoEmpleado": "Heidepriem",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 36,
+        "NombreEmpleado": "Jose",
+        "ApellidoEmpleado": "Lugo",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-14"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 37,
+        "NombreEmpleado": "Chris",
+        "ApellidoEmpleado": "Okelberry",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-04-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 38,
+        "NombreEmpleado": "Kim",
+        "ApellidoEmpleado": "Abercrombie",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-02-17"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 39,
+        "NombreEmpleado": "Ed",
+        "ApellidoEmpleado": "Dudenhoefer",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-03-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 40,
+        "NombreEmpleado": "JoLynn",
+        "ApellidoEmpleado": "Dobney",
+        "CargoEmpleado": "Production Supervisor - WC60",
+        "FechaIngreso": "2002-01-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 41,
+        "NombreEmpleado": "Bryan",
+        "ApellidoEmpleado": "Baker",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-02-22"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 42,
+        "NombreEmpleado": "James",
+        "ApellidoEmpleado": "Kramer",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-01-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 43,
+        "NombreEmpleado": "Nancy",
+        "ApellidoEmpleado": "Anderson",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-02-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 44,
+        "NombreEmpleado": "Simon",
+        "ApellidoEmpleado": "Rapier",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-01-09"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 45,
+        "NombreEmpleado": "Thomas",
+        "ApellidoEmpleado": "Michaels",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 46,
+        "NombreEmpleado": "Eugene",
+        "ApellidoEmpleado": "Kogan",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 47,
+        "NombreEmpleado": "Andrew",
+        "ApellidoEmpleado": "Hill",
+        "CargoEmpleado": "Production Supervisor - WC10",
+        "FechaIngreso": "2003-03-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 48,
+        "NombreEmpleado": "Ruth",
+        "ApellidoEmpleado": "Ellerbrock",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2002-02-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 49,
+        "NombreEmpleado": "Barry",
+        "ApellidoEmpleado": "Johnson",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2002-02-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 50,
+        "NombreEmpleado": "Sidney",
+        "ApellidoEmpleado": "Higa",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2002-03-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 51,
+        "NombreEmpleado": "Jeffrey",
+        "ApellidoEmpleado": "Ford",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2002-03-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 52,
+        "NombreEmpleado": "Doris",
+        "ApellidoEmpleado": "Hartwig",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2002-04-11"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 53,
+        "NombreEmpleado": "Diane",
+        "ApellidoEmpleado": "Glimp",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2002-04-29"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 54,
+        "NombreEmpleado": "Bonnie",
+        "ApellidoEmpleado": "Kearney",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-02-02"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 55,
+        "NombreEmpleado": "Taylor",
+        "ApellidoEmpleado": "Maxwell",
+        "CargoEmpleado": "Production Supervisor - WC50",
+        "FechaIngreso": "2002-03-11"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 56,
+        "NombreEmpleado": "Denise",
+        "ApellidoEmpleado": "Smith",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-09"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 57,
+        "NombreEmpleado": "Frank",
+        "ApellidoEmpleado": "Miller",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-27"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 58,
+        "NombreEmpleado": "Kendall",
+        "ApellidoEmpleado": "Keil",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 59,
+        "NombreEmpleado": "Bob",
+        "ApellidoEmpleado": "Hohman",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-25"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 60,
+        "NombreEmpleado": "Pete",
+        "ApellidoEmpleado": "Male",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 61,
+        "NombreEmpleado": "Diane",
+        "ApellidoEmpleado": "Tibbott",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-19"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 62,
+        "NombreEmpleado": "John",
+        "ApellidoEmpleado": "Campbell",
+        "CargoEmpleado": "Production Supervisor - WC60",
+        "FechaIngreso": "2002-04-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 63,
+        "NombreEmpleado": "Maciej",
+        "ApellidoEmpleado": "Dusza",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-03-01"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 64,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Zwilling",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-03-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 65,
+        "NombreEmpleado": "Randy",
+        "ApellidoEmpleado": "Reeves",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-03-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 66,
+        "NombreEmpleado": "Karan",
+        "ApellidoEmpleado": "Khanna",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-01-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 67,
+        "NombreEmpleado": "Jay",
+        "ApellidoEmpleado": "Adams",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-04-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 68,
+        "NombreEmpleado": "Charles",
+        "ApellidoEmpleado": "Fitzgerald",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2004-01-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 69,
+        "NombreEmpleado": "Steve",
+        "ApellidoEmpleado": "Masters",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-03-19"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 70,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Ortiz",
+        "CargoEmpleado": "Production Technician - WC60",
+        "FechaIngreso": "2003-01-16"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 71,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Ray",
+        "CargoEmpleado": "Production Supervisor - WC30",
+        "FechaIngreso": "2003-03-19"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 72,
+        "NombreEmpleado": "Steven",
+        "ApellidoEmpleado": "Selikoff",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-02"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 73,
+        "NombreEmpleado": "Carole",
+        "ApellidoEmpleado": "Poland",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-20"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 74,
+        "NombreEmpleado": "Bjorn",
+        "ApellidoEmpleado": "Rettig",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 75,
+        "NombreEmpleado": "Michiko",
+        "ApellidoEmpleado": "Osada",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-27"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 76,
+        "NombreEmpleado": "Carol",
+        "ApellidoEmpleado": "Philips",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-16"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 77,
+        "NombreEmpleado": "Merav",
+        "ApellidoEmpleado": "Netz",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-04-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 78,
+        "NombreEmpleado": "Reuben",
+        "ApellidoEmpleado": "D'sa",
+        "CargoEmpleado": "Production Supervisor - WC40",
+        "FechaIngreso": "2003-01-16"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 79,
+        "NombreEmpleado": "Eric",
+        "ApellidoEmpleado": "Brown",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-02-25"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 80,
+        "NombreEmpleado": "Sandeep",
+        "ApellidoEmpleado": "Kaliyath",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-02-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 81,
+        "NombreEmpleado": "Mihail",
+        "ApellidoEmpleado": "Frintu",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-01-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 82,
+        "NombreEmpleado": "Jack",
+        "ApellidoEmpleado": "Creasey",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-04-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 83,
+        "NombreEmpleado": "Patrick",
+        "ApellidoEmpleado": "Cook",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-03-15"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 84,
+        "NombreEmpleado": "Frank",
+        "ApellidoEmpleado": "Martinez",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-03-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 85,
+        "NombreEmpleado": "Brian",
+        "ApellidoEmpleado": "Goldstein",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2004-01-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 86,
+        "NombreEmpleado": "Ryan",
+        "ApellidoEmpleado": "Cornelsen",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-02-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 87,
+        "NombreEmpleado": "Cristian",
+        "ApellidoEmpleado": "Petculescu",
+        "CargoEmpleado": "Production Supervisor - WC10",
+        "FechaIngreso": "2003-01-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 88,
+        "NombreEmpleado": "Betsy",
+        "ApellidoEmpleado": "Stadick",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-01-19"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 89,
+        "NombreEmpleado": "Patrick",
+        "ApellidoEmpleado": "Wedge",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-03-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 90,
+        "NombreEmpleado": "Danielle",
+        "ApellidoEmpleado": "Tiedt",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-03-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 91,
+        "NombreEmpleado": "Kimberly",
+        "ApellidoEmpleado": "Zimmerman",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-02-13"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 92,
+        "NombreEmpleado": "Tom",
+        "ApellidoEmpleado": "Vande Velde",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-04-10"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 93,
+        "NombreEmpleado": "Kok-Ho",
+        "ApellidoEmpleado": "Loh",
+        "CargoEmpleado": "Production Supervisor - WC50",
+        "FechaIngreso": "2003-01-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 94,
+        "NombreEmpleado": "Russell",
+        "ApellidoEmpleado": "Hunter",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-13"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 95,
+        "NombreEmpleado": "Jim",
+        "ApellidoEmpleado": "Scardelis",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-20"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 96,
+        "NombreEmpleado": "Elizabeth",
+        "ApellidoEmpleado": "Keyser",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-04-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 97,
+        "NombreEmpleado": "Mandar",
+        "ApellidoEmpleado": "Samant",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-14"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 98,
+        "NombreEmpleado": "Sameer",
+        "ApellidoEmpleado": "Tejani",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-15"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 99,
+        "NombreEmpleado": "Nuan",
+        "ApellidoEmpleado": "Yu",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 100,
+        "NombreEmpleado": "Lolan",
+        "ApellidoEmpleado": "Song",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-13"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 101,
+        "NombreEmpleado": "Houman",
+        "ApellidoEmpleado": "Pournasseh",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 102,
+        "NombreEmpleado": "Zheng",
+        "ApellidoEmpleado": "Mu",
+        "CargoEmpleado": "Production Supervisor - WC10",
+        "FechaIngreso": "2003-01-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 103,
+        "NombreEmpleado": "Ebru",
+        "ApellidoEmpleado": "Ersan",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-01-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 104,
+        "NombreEmpleado": "Mary",
+        "ApellidoEmpleado": "Baker",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-01-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 105,
+        "NombreEmpleado": "Kevin",
+        "ApellidoEmpleado": "Homer",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-01-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 106,
+        "NombreEmpleado": "John",
+        "ApellidoEmpleado": "Kane",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-03-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 107,
+        "NombreEmpleado": "Christopher",
+        "ApellidoEmpleado": "Hill",
+        "CargoEmpleado": "Production Technician - WC10",
+        "FechaIngreso": "2004-03-11"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 108,
+        "NombreEmpleado": "Jinghao",
+        "ApellidoEmpleado": "Liu",
+        "CargoEmpleado": "Production Supervisor - WC50",
+        "FechaIngreso": "2003-01-09"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 109,
+        "NombreEmpleado": "Alice",
+        "ApellidoEmpleado": "Ciccu",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 110,
+        "NombreEmpleado": "Jun",
+        "ApellidoEmpleado": "Cao",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-15"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 111,
+        "NombreEmpleado": "Suroor",
+        "ApellidoEmpleado": "Fatima",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 112,
+        "NombreEmpleado": "John",
+        "ApellidoEmpleado": "Evans",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-02"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 113,
+        "NombreEmpleado": "Linda",
+        "ApellidoEmpleado": "Moschell",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-01-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 114,
+        "NombreEmpleado": "Mindaugas",
+        "ApellidoEmpleado": "Krapauskas",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-14"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 115,
+        "NombreEmpleado": "Angela",
+        "ApellidoEmpleado": "Barbariol",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-02-21"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 116,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Patten",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 117,
+        "NombreEmpleado": "Chad",
+        "ApellidoEmpleado": "Niswonger",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-22"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 118,
+        "NombreEmpleado": "Don",
+        "ApellidoEmpleado": "Hall",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-17"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 119,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Entin",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-03-29"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 120,
+        "NombreEmpleado": "Kitti",
+        "ApellidoEmpleado": "Lertpiriyasuwat",
+        "CargoEmpleado": "Production Technician - WC50",
+        "FechaIngreso": "2003-04-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 127,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Hamilton",
+        "CargoEmpleado": "Production Supervisor - WC40",
+        "FechaIngreso": "2003-02-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 128,
+        "NombreEmpleado": "Paul",
+        "ApellidoEmpleado": "Komosinski",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-01-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 129,
+        "NombreEmpleado": "Gary",
+        "ApellidoEmpleado": "Yukish",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-01-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 130,
+        "NombreEmpleado": "Rob",
+        "ApellidoEmpleado": "Caron",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-03-17"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 131,
+        "NombreEmpleado": "Baris",
+        "ApellidoEmpleado": "Cetinok",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-03-19"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 132,
+        "NombreEmpleado": "Nicole",
+        "ApellidoEmpleado": "Holliday",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-03-26"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 133,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Rothkugel",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-02-11"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 134,
+        "NombreEmpleado": "Eric",
+        "ApellidoEmpleado": "Gubbels",
+        "CargoEmpleado": "Production Supervisor - WC20",
+        "FechaIngreso": "2003-02-15"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 135,
+        "NombreEmpleado": "Ivo",
+        "ApellidoEmpleado": "Salmre",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-01-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 136,
+        "NombreEmpleado": "Sylvester",
+        "ApellidoEmpleado": "Valdez",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2004-01-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 137,
+        "NombreEmpleado": "Anibal",
+        "ApellidoEmpleado": "Sousa",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-03-27"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 138,
+        "NombreEmpleado": "Samantha",
+        "ApellidoEmpleado": "Smith",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-03-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 139,
+        "NombreEmpleado": "Hung-Fu",
+        "ApellidoEmpleado": "Ting",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2004-02-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 140,
+        "NombreEmpleado": "Prasanna",
+        "ApellidoEmpleado": "Samarawickrama",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2004-02-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 141,
+        "NombreEmpleado": "Min",
+        "ApellidoEmpleado": "Su",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2004-02-25"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 142,
+        "NombreEmpleado": "Olinda",
+        "ApellidoEmpleado": "Turner",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2004-04-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 143,
+        "NombreEmpleado": "Krishna",
+        "ApellidoEmpleado": "Sunkammurali",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2004-03-16"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 144,
+        "NombreEmpleado": "Paul",
+        "ApellidoEmpleado": "Singh",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-02-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 145,
+        "NombreEmpleado": "Cynthia",
+        "ApellidoEmpleado": "Randall",
+        "CargoEmpleado": "Production Supervisor - WC30",
+        "FechaIngreso": "2003-02-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 146,
+        "NombreEmpleado": "Jian Shuo",
+        "ApellidoEmpleado": "Wang",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 147,
+        "NombreEmpleado": "Sandra",
+        "ApellidoEmpleado": "Reátegui Alayo",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-27"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 148,
+        "NombreEmpleado": "Jason",
+        "ApellidoEmpleado": "Watters",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-15"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 149,
+        "NombreEmpleado": "Andy",
+        "ApellidoEmpleado": "Ruth",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 150,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Vanderhyde",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 151,
+        "NombreEmpleado": "Rostislav",
+        "ApellidoEmpleado": "Shabalin",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 152,
+        "NombreEmpleado": "Yuhong",
+        "ApellidoEmpleado": "Li",
+        "CargoEmpleado": "Production Supervisor - WC20",
+        "FechaIngreso": "2003-03-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 153,
+        "NombreEmpleado": "Hanying",
+        "ApellidoEmpleado": "Feng",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-01-17"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 154,
+        "NombreEmpleado": "Raymond",
+        "ApellidoEmpleado": "Sam",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-01-24"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 155,
+        "NombreEmpleado": "Fadi",
+        "ApellidoEmpleado": "Fakhouri",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-02-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 156,
+        "NombreEmpleado": "Lane",
+        "ApellidoEmpleado": "Sacksteder",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-02-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 157,
+        "NombreEmpleado": "Linda",
+        "ApellidoEmpleado": "Randall",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-03-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 158,
+        "NombreEmpleado": "Shelley",
+        "ApellidoEmpleado": "Dyck",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-04-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 159,
+        "NombreEmpleado": "Terrence",
+        "ApellidoEmpleado": "Earls",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-03-20"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 160,
+        "NombreEmpleado": "Jeff",
+        "ApellidoEmpleado": "Hay",
+        "CargoEmpleado": "Production Supervisor - WC45",
+        "FechaIngreso": "2003-02-22"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 161,
+        "NombreEmpleado": "Kirk",
+        "ApellidoEmpleado": "Koenigsbauer",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-01-16"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 162,
+        "NombreEmpleado": "Laura",
+        "ApellidoEmpleado": "Steele",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-02-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 163,
+        "NombreEmpleado": "Alex",
+        "ApellidoEmpleado": "Nayberg",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-03-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 164,
+        "NombreEmpleado": "Andrew",
+        "ApellidoEmpleado": "Cencini",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-04-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 165,
+        "NombreEmpleado": "Chris",
+        "ApellidoEmpleado": "Preston",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-02-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 166,
+        "NombreEmpleado": "Jack",
+        "ApellidoEmpleado": "Richins",
+        "CargoEmpleado": "Production Supervisor - WC30",
+        "FechaIngreso": "2003-03-25"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 167,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Johnson",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 168,
+        "NombreEmpleado": "Garrett",
+        "ApellidoEmpleado": "Young",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-08"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 169,
+        "NombreEmpleado": "Susan",
+        "ApellidoEmpleado": "Metters",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-15"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 170,
+        "NombreEmpleado": "George",
+        "ApellidoEmpleado": "Li",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-01-22"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 171,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Yalovsky",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 172,
+        "NombreEmpleado": "Marc",
+        "ApellidoEmpleado": "Ingle",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-17"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 173,
+        "NombreEmpleado": "Eugene",
+        "ApellidoEmpleado": "Zabokritski",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-22"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 174,
+        "NombreEmpleado": "Benjamin",
+        "ApellidoEmpleado": "Martin",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-02-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 175,
+        "NombreEmpleado": "Reed",
+        "ApellidoEmpleado": "Koch",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 176,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Lawrence",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 177,
+        "NombreEmpleado": "Russell",
+        "ApellidoEmpleado": "King",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-03-25"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 178,
+        "NombreEmpleado": "John",
+        "ApellidoEmpleado": "Frum",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-04-04"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 179,
+        "NombreEmpleado": "Jan",
+        "ApellidoEmpleado": "Miksovsky",
+        "CargoEmpleado": "Production Technician - WC30",
+        "FechaIngreso": "2003-04-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 180,
+        "NombreEmpleado": "Katie",
+        "ApellidoEmpleado": "McAskill-White",
+        "CargoEmpleado": "Production Supervisor - WC20",
+        "FechaIngreso": "2003-03-24"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 181,
+        "NombreEmpleado": "Michael",
+        "ApellidoEmpleado": "Hines",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-01-10"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 182,
+        "NombreEmpleado": "Nitin",
+        "ApellidoEmpleado": "Mirchandani",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-01-29"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 183,
+        "NombreEmpleado": "Barbara",
+        "ApellidoEmpleado": "Decker",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-02-23"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 184,
+        "NombreEmpleado": "John",
+        "ApellidoEmpleado": "Chen",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-03-13"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 185,
+        "NombreEmpleado": "Stefen",
+        "ApellidoEmpleado": "Hesse",
+        "CargoEmpleado": "Production Technician - WC20",
+        "FechaIngreso": "2003-04-01"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 186,
+        "NombreEmpleado": "Shane",
+        "ApellidoEmpleado": "Kim",
+        "CargoEmpleado": "Production Supervisor - WC45",
+        "FechaIngreso": "2003-03-12"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 187,
+        "NombreEmpleado": "Yvonne",
+        "ApellidoEmpleado": "McKay",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-01-10"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 188,
+        "NombreEmpleado": "Douglas",
+        "ApellidoEmpleado": "Hite",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-01-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 189,
+        "NombreEmpleado": "Janeth",
+        "ApellidoEmpleado": "Esteves",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-02-16"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 190,
+        "NombreEmpleado": "Robert",
+        "ApellidoEmpleado": "Rounthwaite",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-03-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 191,
+        "NombreEmpleado": "Lionel",
+        "ApellidoEmpleado": "Penuchot",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-03-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 192,
+        "NombreEmpleado": "Brenda",
+        "ApellidoEmpleado": "Diaz",
+        "CargoEmpleado": "Production Supervisor - WC40",
+        "FechaIngreso": "2003-04-06"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 193,
+        "NombreEmpleado": "Alejandro",
+        "ApellidoEmpleado": "McGuel",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-01-07"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 194,
+        "NombreEmpleado": "Fred",
+        "ApellidoEmpleado": "Northup",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-01-13"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 195,
+        "NombreEmpleado": "Kevin",
+        "ApellidoEmpleado": "Liu",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-01-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 196,
+        "NombreEmpleado": "Shammi",
+        "ApellidoEmpleado": "Mohamed",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-01-25"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 197,
+        "NombreEmpleado": "Rajesh",
+        "ApellidoEmpleado": "Patel",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-02-01"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 198,
+        "NombreEmpleado": "Lorraine",
+        "ApellidoEmpleado": "Nay",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-02-05"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 199,
+        "NombreEmpleado": "Paula",
+        "ApellidoEmpleado": "Nartker",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-02-13"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 200,
+        "NombreEmpleado": "Frank",
+        "ApellidoEmpleado": "Lee",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-02-18"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 201,
+        "NombreEmpleado": "Brian",
+        "ApellidoEmpleado": "Lloyd",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-03-02"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 202,
+        "NombreEmpleado": "Tawana",
+        "ApellidoEmpleado": "Nusbaum",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-03-09"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 203,
+        "NombreEmpleado": "Ken",
+        "ApellidoEmpleado": "Myer",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-03-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 204,
+        "NombreEmpleado": "Gabe",
+        "ApellidoEmpleado": "Mares",
+        "CargoEmpleado": "Production Technician - WC40",
+        "FechaIngreso": "2003-04-09"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 205,
+        "NombreEmpleado": "Lori",
+        "ApellidoEmpleado": "Kane",
+        "CargoEmpleado": "Production Supervisor - WC45",
+        "FechaIngreso": "2003-03-30"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 206,
+        "NombreEmpleado": "Stuart",
+        "ApellidoEmpleado": "Munson",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-01-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 207,
+        "NombreEmpleado": "Greg",
+        "ApellidoEmpleado": "Alderson",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-01-03"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 208,
+        "NombreEmpleado": "Scott",
+        "ApellidoEmpleado": "Gode",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-02-09"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 209,
+        "NombreEmpleado": "Kathie",
+        "ApellidoEmpleado": "Flood",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-02-28"
+    },
+    {
+        "ID_Departamento": 7,
+        "Nombre_Departamento": "Production",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 210,
+        "NombreEmpleado": "Belinda",
+        "ApellidoEmpleado": "Newman",
+        "CargoEmpleado": "Production Technician - WC45",
+        "FechaIngreso": "2003-03-24"
+    },
+    {
+        "ID_Departamento": 8,
+        "Nombre_Departamento": "Production Control",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 224,
+        "NombreEmpleado": "William",
+        "ApellidoEmpleado": "Vong",
+        "CargoEmpleado": "Scheduling Assistant",
+        "FechaIngreso": "2003-02-08"
+    },
+    {
+        "ID_Departamento": 8,
+        "Nombre_Departamento": "Production Control",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 225,
+        "NombreEmpleado": "Alan",
+        "ApellidoEmpleado": "Brewer",
+        "CargoEmpleado": "Scheduling Assistant",
+        "FechaIngreso": "2003-03-17"
+    },
+    {
+        "ID_Departamento": 8,
+        "Nombre_Departamento": "Production Control",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 226,
+        "NombreEmpleado": "Brian",
+        "ApellidoEmpleado": "LaMee",
+        "CargoEmpleado": "Scheduling Assistant",
+        "FechaIngreso": "2003-04-04"
+    },
+    {
+        "ID_Departamento": 8,
+        "Nombre_Departamento": "Production Control",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 26,
+        "NombreEmpleado": "Peter",
+        "ApellidoEmpleado": "Krebs",
+        "CargoEmpleado": "Production Control Manager",
+        "FechaIngreso": "2003-01-02"
+    },
+    {
+        "ID_Departamento": 8,
+        "Nombre_Departamento": "Production Control",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 222,
+        "NombreEmpleado": "A. Scott",
+        "ApellidoEmpleado": "Wright",
+        "CargoEmpleado": "Master Scheduler",
+        "FechaIngreso": "2003-01-13"
+    },
+    {
+        "ID_Departamento": 8,
+        "Nombre_Departamento": "Production Control",
+        "Grupo": "Manufacturing",
+        "ID_Empleado": 223,
+        "NombreEmpleado": "Sairaj",
+        "ApellidoEmpleado": "Uddin",
+        "CargoEmpleado": "Scheduling Assistant",
+        "FechaIngreso": "2003-02-27"
+    },
+    {
+        "ID_Departamento": 9,
+        "Nombre_Departamento": "Human Resources",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 235,
+        "NombreEmpleado": "Paula",
+        "ApellidoEmpleado": "Barreto de Mattos",
+        "CargoEmpleado": "Human Resources Manager",
+        "FechaIngreso": "2003-01-07"
+    },
+    {
+        "ID_Departamento": 9,
+        "Nombre_Departamento": "Human Resources",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 236,
+        "NombreEmpleado": "Grant",
+        "ApellidoEmpleado": "Culbertson",
+        "CargoEmpleado": "Human Resources Administrative Assistant",
+        "FechaIngreso": "2003-03-29"
+    },
+    {
+        "ID_Departamento": 9,
+        "Nombre_Departamento": "Human Resources",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 237,
+        "NombreEmpleado": "Hao",
+        "ApellidoEmpleado": "Chen",
+        "CargoEmpleado": "Human Resources Administrative Assistant",
+        "FechaIngreso": "2003-03-10"
+    },
+    {
+        "ID_Departamento": 9,
+        "Nombre_Departamento": "Human Resources",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 238,
+        "NombreEmpleado": "Vidur",
+        "ApellidoEmpleado": "Luthra",
+        "CargoEmpleado": "Recruiter",
+        "FechaIngreso": "2003-02-02"
+    },
+    {
+        "ID_Departamento": 9,
+        "Nombre_Departamento": "Human Resources",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 239,
+        "NombreEmpleado": "Mindy",
+        "ApellidoEmpleado": "Martin",
+        "CargoEmpleado": "Benefits Specialist",
+        "FechaIngreso": "2003-01-26"
+    },
+    {
+        "ID_Departamento": 9,
+        "Nombre_Departamento": "Human Resources",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 240,
+        "NombreEmpleado": "Willis",
+        "ApellidoEmpleado": "Johnson",
+        "CargoEmpleado": "Recruiter",
+        "FechaIngreso": "2003-01-14"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 241,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Liu",
+        "CargoEmpleado": "Accounts Manager",
+        "FechaIngreso": "2003-03-03"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 242,
+        "NombreEmpleado": "Deborah",
+        "ApellidoEmpleado": "Poe",
+        "CargoEmpleado": "Accounts Receivable Specialist",
+        "FechaIngreso": "2003-01-19"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 243,
+        "NombreEmpleado": "Candy",
+        "ApellidoEmpleado": "Spoon",
+        "CargoEmpleado": "Accounts Receivable Specialist",
+        "FechaIngreso": "2003-02-07"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 244,
+        "NombreEmpleado": "Bryan",
+        "ApellidoEmpleado": "Walton",
+        "CargoEmpleado": "Accounts Receivable Specialist",
+        "FechaIngreso": "2003-02-25"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 245,
+        "NombreEmpleado": "Barbara",
+        "ApellidoEmpleado": "Moreland",
+        "CargoEmpleado": "Accountant",
+        "FechaIngreso": "2003-03-22"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 246,
+        "NombreEmpleado": "Dragan",
+        "ApellidoEmpleado": "Tomic",
+        "CargoEmpleado": "Accounts Payable Specialist",
+        "FechaIngreso": "2003-03-15"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 247,
+        "NombreEmpleado": "Janet",
+        "ApellidoEmpleado": "Sheperdigian",
+        "CargoEmpleado": "Accounts Payable Specialist",
+        "FechaIngreso": "2003-04-02"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 248,
+        "NombreEmpleado": "Mike",
+        "ApellidoEmpleado": "Seamans",
+        "CargoEmpleado": "Accountant",
+        "FechaIngreso": "2003-04-09"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 249,
+        "NombreEmpleado": "Wendy",
+        "ApellidoEmpleado": "Kahn",
+        "CargoEmpleado": "Finance Manager",
+        "FechaIngreso": "2003-01-26"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 234,
+        "NombreEmpleado": "Laura",
+        "ApellidoEmpleado": "Norman",
+        "CargoEmpleado": "Chief Financial Officer",
+        "FechaIngreso": "2003-03-04"
+    },
+    {
+        "ID_Departamento": 10,
+        "Nombre_Departamento": "Finance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 262,
+        "NombreEmpleado": "David",
+        "ApellidoEmpleado": "Barber",
+        "CargoEmpleado": "Assistant to the Chief Financial Officer",
+        "FechaIngreso": "2003-02-13"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 263,
+        "NombreEmpleado": "Jean",
+        "ApellidoEmpleado": "Trenary",
+        "CargoEmpleado": "Information Services Manager",
+        "FechaIngreso": "2003-01-12"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 264,
+        "NombreEmpleado": "Stephanie",
+        "ApellidoEmpleado": "Conroy",
+        "CargoEmpleado": "Network Manager",
+        "FechaIngreso": "2003-03-08"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 265,
+        "NombreEmpleado": "Ashvini",
+        "ApellidoEmpleado": "Sharma",
+        "CargoEmpleado": "Network Administrator",
+        "FechaIngreso": "2003-01-05"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 266,
+        "NombreEmpleado": "Peter",
+        "ApellidoEmpleado": "Connelly",
+        "CargoEmpleado": "Network Administrator",
+        "FechaIngreso": "2003-03-27"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 267,
+        "NombreEmpleado": "Karen",
+        "ApellidoEmpleado": "Berg",
+        "CargoEmpleado": "Application Specialist",
+        "FechaIngreso": "2003-03-20"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 268,
+        "NombreEmpleado": "Ramesh",
+        "ApellidoEmpleado": "Meyyappan",
+        "CargoEmpleado": "Application Specialist",
+        "FechaIngreso": "2003-03-07"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 269,
+        "NombreEmpleado": "Dan",
+        "ApellidoEmpleado": "Bacon",
+        "CargoEmpleado": "Application Specialist",
+        "FechaIngreso": "2003-02-12"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 270,
+        "NombreEmpleado": "François",
+        "ApellidoEmpleado": "Ajenstat",
+        "CargoEmpleado": "Database Administrator",
+        "FechaIngreso": "2003-02-18"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 271,
+        "NombreEmpleado": "Dan",
+        "ApellidoEmpleado": "Wilson",
+        "CargoEmpleado": "Database Administrator",
+        "FechaIngreso": "2003-02-23"
+    },
+    {
+        "ID_Departamento": 11,
+        "Nombre_Departamento": "Information Services",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 272,
+        "NombreEmpleado": "Janaina",
+        "ApellidoEmpleado": "Bueno",
+        "CargoEmpleado": "Application Specialist",
+        "FechaIngreso": "2003-01-24"
+    },
+    {
+        "ID_Departamento": 12,
+        "Nombre_Departamento": "Document Control",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 217,
+        "NombreEmpleado": "Zainal",
+        "ApellidoEmpleado": "Arifin",
+        "CargoEmpleado": "Document Control Manager",
+        "FechaIngreso": "2003-02-05"
+    },
+    {
+        "ID_Departamento": 12,
+        "Nombre_Departamento": "Document Control",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 218,
+        "NombreEmpleado": "Tengiz",
+        "ApellidoEmpleado": "Kharatishvili",
+        "CargoEmpleado": "Control Specialist",
+        "FechaIngreso": "2003-01-17"
+    },
+    {
+        "ID_Departamento": 12,
+        "Nombre_Departamento": "Document Control",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 219,
+        "NombreEmpleado": "Sean",
+        "ApellidoEmpleado": "Chai",
+        "CargoEmpleado": "Document Control Assistant",
+        "FechaIngreso": "2003-02-23"
+    },
+    {
+        "ID_Departamento": 12,
+        "Nombre_Departamento": "Document Control",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 220,
+        "NombreEmpleado": "Karen",
+        "ApellidoEmpleado": "Berge",
+        "CargoEmpleado": "Document Control Assistant",
+        "FechaIngreso": "2003-03-13"
+    },
+    {
+        "ID_Departamento": 12,
+        "Nombre_Departamento": "Document Control",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 221,
+        "NombreEmpleado": "Chris",
+        "ApellidoEmpleado": "Norred",
+        "CargoEmpleado": "Control Specialist",
+        "FechaIngreso": "2003-04-07"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 250,
+        "NombreEmpleado": "Sheela",
+        "ApellidoEmpleado": "Word",
+        "CargoEmpleado": "Purchasing Manager",
+        "FechaIngreso": "2005-03-28"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 211,
+        "NombreEmpleado": "Hazem",
+        "ApellidoEmpleado": "Abolrous",
+        "CargoEmpleado": "Quality Assurance Manager",
+        "FechaIngreso": "2003-04-01"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 212,
+        "NombreEmpleado": "Peng",
+        "ApellidoEmpleado": "Wu",
+        "CargoEmpleado": "Quality Assurance Supervisor",
+        "FechaIngreso": "2003-01-10"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 213,
+        "NombreEmpleado": "Sootha",
+        "ApellidoEmpleado": "Charncherngkha",
+        "CargoEmpleado": "Quality Assurance Technician",
+        "FechaIngreso": "2004-03-26"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 214,
+        "NombreEmpleado": "Andreas",
+        "ApellidoEmpleado": "Berglund",
+        "CargoEmpleado": "Quality Assurance Technician",
+        "FechaIngreso": "2003-03-06"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 215,
+        "NombreEmpleado": "Mark",
+        "ApellidoEmpleado": "Harrington",
+        "CargoEmpleado": "Quality Assurance Technician",
+        "FechaIngreso": "2003-02-16"
+    },
+    {
+        "ID_Departamento": 13,
+        "Nombre_Departamento": "Quality Assurance",
+        "Grupo": "Quality Assurance",
+        "ID_Empleado": 216,
+        "NombreEmpleado": "Sean",
+        "ApellidoEmpleado": "Alexander",
+        "CargoEmpleado": "Quality Assurance Technician",
+        "FechaIngreso": "2003-01-29"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 227,
+        "NombreEmpleado": "Gary",
+        "ApellidoEmpleado": "Altman",
+        "CargoEmpleado": "Facilities Manager",
+        "FechaIngreso": "2004-01-03"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 228,
+        "NombreEmpleado": "Christian",
+        "ApellidoEmpleado": "Kleinerman",
+        "CargoEmpleado": "Maintenance Supervisor",
+        "FechaIngreso": "2003-01-15"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 229,
+        "NombreEmpleado": "Lori",
+        "ApellidoEmpleado": "Penor",
+        "CargoEmpleado": "Janitor",
+        "FechaIngreso": "2004-03-19"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 230,
+        "NombreEmpleado": "Stuart",
+        "ApellidoEmpleado": "Macrae",
+        "CargoEmpleado": "Janitor",
+        "FechaIngreso": "2004-04-05"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 231,
+        "NombreEmpleado": "Jo",
+        "ApellidoEmpleado": "Berry",
+        "CargoEmpleado": "Janitor",
+        "FechaIngreso": "2004-04-07"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 232,
+        "NombreEmpleado": "Pat",
+        "ApellidoEmpleado": "Coleman",
+        "CargoEmpleado": "Janitor",
+        "FechaIngreso": "2004-02-28"
+    },
+    {
+        "ID_Departamento": 14,
+        "Nombre_Departamento": "Facilities and Maintenance",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 233,
+        "NombreEmpleado": "Magnus",
+        "ApellidoEmpleado": "Hedlund",
+        "CargoEmpleado": "Facilities Administrative Assistant",
+        "FechaIngreso": "2004-01-22"
+    },
+    {
+        "ID_Departamento": 15,
+        "Nombre_Departamento": "Shipping and Receiving",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 121,
+        "NombreEmpleado": "Pilar",
+        "ApellidoEmpleado": "Ackerman",
+        "CargoEmpleado": "Shipping and Receiving Supervisor",
+        "FechaIngreso": "2003-02-03"
+    },
+    {
+        "ID_Departamento": 15,
+        "Nombre_Departamento": "Shipping and Receiving",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 122,
+        "NombreEmpleado": "Susan",
+        "ApellidoEmpleado": "Eaton",
+        "CargoEmpleado": "Stocker",
+        "FechaIngreso": "2003-01-08"
+    },
+    {
+        "ID_Departamento": 15,
+        "Nombre_Departamento": "Shipping and Receiving",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 123,
+        "NombreEmpleado": "Vamsi",
+        "ApellidoEmpleado": "Kuppa",
+        "CargoEmpleado": "Shipping and Receiving Clerk",
+        "FechaIngreso": "2003-01-08"
+    },
+    {
+        "ID_Departamento": 15,
+        "Nombre_Departamento": "Shipping and Receiving",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 124,
+        "NombreEmpleado": "Kim",
+        "ApellidoEmpleado": "Ralls",
+        "CargoEmpleado": "Stocker",
+        "FechaIngreso": "2003-01-27"
+    },
+    {
+        "ID_Departamento": 15,
+        "Nombre_Departamento": "Shipping and Receiving",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 125,
+        "NombreEmpleado": "Matthias",
+        "ApellidoEmpleado": "Berndt",
+        "CargoEmpleado": "Shipping and Receiving Clerk",
+        "FechaIngreso": "2003-02-21"
+    },
+    {
+        "ID_Departamento": 15,
+        "Nombre_Departamento": "Shipping and Receiving",
+        "Grupo": "Inventory Management",
+        "ID_Empleado": 126,
+        "NombreEmpleado": "Jimmy",
+        "ApellidoEmpleado": "Bischoff",
+        "CargoEmpleado": "Stocker",
+        "FechaIngreso": "2003-03-30"
+    },
+    {
+        "ID_Departamento": 16,
+        "Nombre_Departamento": "Executive",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 234,
+        "NombreEmpleado": "Laura",
+        "ApellidoEmpleado": "Norman",
+        "CargoEmpleado": "Chief Financial Officer",
+        "FechaIngreso": "2003-03-04"
+    },
+    {
+        "ID_Departamento": 16,
+        "Nombre_Departamento": "Executive",
+        "Grupo": "Executive General and Administration",
+        "ID_Empleado": 1,
+        "NombreEmpleado": "Ken",
+        "ApellidoEmpleado": "Sánchez",
+        "CargoEmpleado": "Chief Executive Officer",
+        "FechaIngreso": "2003-02-15"
+    }
+]

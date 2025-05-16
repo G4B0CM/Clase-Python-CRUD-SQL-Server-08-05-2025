@@ -1,0 +1,26 @@
+[
+    {
+        "IDempleado": 1,
+        "Nombre": "Ken",
+        "Apellido": "Sánchez",
+        "EstadoCivil": "S",
+        "FechaNacimiento": "1963-03-02",
+        "Estado": true
+    },
+    {
+        "IDempleado": 2,
+        "Nombre": "Terri",
+        "Apellido": "Duffy",
+        "EstadoCivil": "S",
+        "FechaNacimiento": "1965-09-01",
+        "Estado": true
+    },
+    {
+        "IDempleado": 3,
+        "Nombre": "Roberto",
+        "Apellido": "Tamburello",
+        "EstadoCivil": "M",
+        "FechaNacimiento": "1968-12-13",
+        "Estado": true
+    }
+]
